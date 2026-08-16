@@ -1,8 +1,17 @@
 ---
 permalink: /about/
 title: "About"
+excerpt: "어쩌다 개발, 시스템 빌더의 이야기."
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+혼란한 시작이었어요...처음은.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+작은 조직의 구성원이었고, 그저 퇴근이 하고 싶었어요
+
+시스템 없는 소조직에 시스템 만들기.
+
+그러다 보니, 개발까지 하게 된
+
+**어쩌다 개발, 시스템 빌더의 이야기**
+
+Code.Joy 입니다 :)
