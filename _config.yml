@@ -2,7 +2,6 @@
 
 # Site settings
 title: Code.Joy
-subtitle: "개발자가 되려던 건 아니었습니다만... 어쩌다 개발까지 하게 된 일당백 현대인의 기록"
 email: codejoy.seyoon@gmail.com
 url: "https://codejoy-seyoon.github.io"
 baseurl: ""
@@ -37,7 +36,7 @@ plugins:
 
 author:
   name   : "codejoy"
-  bio    : "개발자가 되려던 건 아니었습니다만..."
+  bio    : '개발자가 되려던 건 아니었습니다만...<span class="bio-more"> 어쩌다 개발까지 하게 된 일당백 현대인의 기록</span>'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

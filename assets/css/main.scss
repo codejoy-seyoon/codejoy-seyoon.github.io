@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* ===== 커스텀 ===== */
+
+/* 사이드바 소개문 — 기본은 앞부분만, 호버하면 나머지가 이어서 보인다.
+   author.bio 안의 <span class="bio-more"> 가 대상. */
+.author__bio {
+  .bio-more {
+    display: none;
+  }
+
+  &:hover .bio-more {
+    display: inline;
+  }
+}
+
+/* 호버가 없는 기기(터치)에서는 감출 방법이 없으니 전문을 그냥 보여준다 */
+@media (hover: none) {
+  .author__bio .bio-more {
+    display: inline;
+  }
+}
