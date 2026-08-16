@@ -2,6 +2,7 @@
 
 # Site settings
 title: Code.Joy
+subtitle: "개발자가 되려던 건 아니었습니다만... 어쩌다 개발까지 하게 된 일당백 현대인의 기록"
 email: codejoy.seyoon@gmail.com
 url: "https://codejoy-seyoon.github.io"
 baseurl: ""
@@ -35,7 +36,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "codejoy"
+  name   : "seyoon"
   bio    : '개발자가 되려던 건 아니었습니다만...<span class="bio-more"> 어쩌다 개발까지 하게 된 일당백 현대인의 기록</span>'
   links:
     - label: "GitHub"
