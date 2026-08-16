@@ -37,7 +37,7 @@ plugins:
 
 author:
   name   : "seyoon"
-  bio    : "기획.시스템 빌더"
+  bio    : "기획.시스템 빌더<br>특기 : 어떻게든 되게 만들기"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
